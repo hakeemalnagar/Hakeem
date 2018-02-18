@@ -22,8 +22,10 @@
 <li> Added Option to Increase Video Limit in Status (Mod 5.6)</li>
 <li> Exclusive Ability to identify Admin Msg in Group (Besides Number) </li>
 <li> Exclusive Option to Change Fab Size (Mod 2.7.7)</li>
-<li> Exclusive Option to Change Fab Location/Position (Mod 2.7.8)</li> <li> Enabled Change Number Notification</li> <li> Enabled Clock Sticker</li>
-<li> Enabled Group Info Settings (Will Work when Enabled from Server)</li> <li> Added Option to Hide DND Mode Icon (mod 2.1.10)</li>
+<li> Exclusive Option to Change Fab Location/Position (Mod 2.7.8)</li> 
+<li> Enabled Change Number Notification</li> <li> Enabled Clock Sticker</li>
+<li> Enabled Group Info Settings (Will Work when Enabled from Server)</li> 
+<li> Added Option to Hide DND Mode Icon (mod 2.1.10)</li>
 <li> Improved Dialer (Now you can Edit, Copy, Paste Numbers)</li>
 <li> Added German Language Support</li> <li> Fixed Navigation Bar Color when Select any chat/message</li>
 <li> Fixed Mod 6.2 when Send/Receive More than 1 pic. </li>
