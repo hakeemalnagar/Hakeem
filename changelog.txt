@@ -1,38 +1,95 @@
 {"version_code":451198,"content":"
 <p>تحديث 1.20 </p>
+<html>
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<header>
+<style>
+body {
+	background: #94CDCD;
+	color: #CDCDCD;
+}
 
-<li>  التحديث لنسخة الماركت 2.17.427</li>
-<li>إضافة فيسات الواتساب الجديدة</li>
-<li>(حصريا) يمكنك الان ايقاف الانترنت عن الواتساب ويبقى الانترنت يعمل في البرامج الاخرى</li>
-<li>إضافة الخيار رقم 5.6 لرفع فيديو في الحالة مدته 7 دقائق بدلا من 30 ثانية</li> 
-<li>الان في المجموعات سوف يظهر (مشرف المجموعة) بجانب اسم المشرف</li>
-<li>إضافة الخيار رقم 2.7.7 لتغيير حجم الزر العائم</li>
-<li>إضافة الخيار رقم 2.7.8 لتغيير مكان الزر العائم(يسار او يمين الشاشة)</li>
-<li>إضافة ملصق الساعة</li>
-<li>إضافة الخيار رقم 2.1.10 لإخفاء ايقونة ايقاف الانترنت من شاشة المحادثات</li> <li>تفعيل ميزة اشعار جهات اتصالك عند تغيير رقمك</li>
-<li>إضافة امكانية التحكم باعدادات المجموعة فقط للمشرفين(سوف تتفعل قريبا من قبل السيرفر)</li> 
-<li>دعم اللغة الالمانية</li> <li>تحسين ميزة ارسال رسالة لرقم غير محفوظ في جهازك</li>
-<li>إصلاح عدم عمل الخيار رقم 6.2 عند استقبال عدة صور(البوم)</li>
-<li>إصلاح الخيار رقم 6.11 في بعض الإصدارات</li> <li>إصلاح الانهيار عند فتح المحادثات التي فعلت خصوصيتها</li>
-<li>إصلاح مشكلة عدم (فشل تشغيل هذا الفيديو) في بعض الاجهزة</li>
-<li>إصلاح الوان شريط الحالة عند تحديد رسالة/محادثة</li> <li>إصلاحات اخرى</li>
-<li> New Base Updated to 2.17.427</li>
-<li> Added New Emojis</li>
-<li> Exclusive DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
-<li> Added Option to Increase Video Limit in Status (Mod 5.6)</li>
-<li> Exclusive Ability to identify Admin Msg in Group (Besides Number) </li>
-<li> Exclusive Option to Change Fab Size (Mod 2.7.7)</li>
-<li> Exclusive Option to Change Fab Location/Position (Mod 2.7.8)</li> 
-<li> Enabled Change Number Notification</li> <li> Enabled Clock Sticker</li>
-<li> Enabled Group Info Settings (Will Work when Enabled from Server)</li> 
-<li> Added Option to Hide DND Mode Icon (mod 2.1.10)</li>
-<li> Improved Dialer (Now you can Edit, Copy, Paste Numbers)</li>
-<li> Added German Language Support</li> <li> Fixed Navigation Bar Color when Select any chat/message</li>
-<li> Fixed Mod 6.2 when Send/Receive More than 1 pic. </li>
-<li> Fixed Mod 6.11 for Android Oreo. </li>
-<li> Fixed Play Videos in some devices</li>
-<li> Fixed Crash when open Custom Privacy Chats</li>
-<li> Other Fixes</li> 
+li {
+  color: red; /* bullet color */
+}
+
+h2 {
+	line-height: 1.5;
+	font-family: Comic Sans MS;
+	font-weight: bold;
+	text-align: center;
+	text-color: Red;
+}
+
+#container {
+	/stitching/
+	outline: 1px dashed #FFffff;
+	outline-offset: -5px;
+	
+	background-color: #FF5252;
+	height: 50px;
+	width: 100%;
+	
+	/shadow/
+	-webkit-box-shadow: 0px 2px 2px #000;
+	-moz-box-shadow: 0px 2px 2px #000;
+	box-shadow: 0px 2px 2px #000;
+}
+</style>
+</header>
+<body>
+<font face="Comic Sans MS">
+    <div id="container">
+     <h2><font color="red" size="6">NJWhatsApp</font></h2>
+    </div>
+<font face="Comic Sans MS">
+    <div id="container">
+     <h2><font color="red" size="3">تطوير:عبدالحكيم النجار</font></h2>
+    </div>
+<font face="Comic Sans MS">
+    <div id="container">
+     <h2><font color="red" size="3">الاصدار 1.20</font></h2>
+    </div>
+
+<body dir="rtl">
+<br/>
+<font face="Comic Sans MS">
+    <div id="container">
+     <h2><font color="black" size="3">الاصدار 1.20</font></h2>
+    </div>
+	<font face="Comic Sans MS">
+    <div id="container">
+     <h2><font color="red" size="3">15-3-2018</font></h2>
+    </div>
+*التحديث لنسخة الماركت 2.18.9
+*(حصريا) إضافة الرد التلقائي (يمكنك إرسال رد تلقائي للرسائل الواردة عندما تكون انت مشغولا)
+*تفعيل ميزة البحث عن عضو في معلومات المجموعة
+*إضافة إمكانية تعديل معلومات المجموعة من قبل المشرفين فقط
+*إضافة 7 اشكال جديدة لفقاعة المحادثة الخيار رقم 1.2.3
+*إضافة 4 اشكال جديدة لصحين القراءة والاستلام الخيار رقم 6.1
+*إضافة 5 ايقونات جديدة لايقونة البرنامج الرئيسية الخيار رقم 6.0
+*إضافة 16 ايقونة جديدة لاشعارات الرسائل الخيار رقم 6.3
+*إضافة الخيار رقم 1.2.64 لتعطيل ظهور 'مشرف المجموعة' بجانب الاسم في المجموعة
+*إضافة الخيار رقم 1.2.65 لتغيير لون 'مشرف المجموعة' بجانب الاسم في المجموعة
+*يمكنك إدارة مشرفي المجموعة من خلال معلومات المجموعة
+*إصلاح إمكانية فتح/الاتصال باي محادثة مخفية من خلال (تطبيق جهات الاتصال الموجود على الجهاز)
+*إصلاح ظهور المحادثات المخفية عند مشاركة ملف وسائط للبرنامج
+*إصلاح إمكانية فتح اي محادثة مخفية من خلال ميزة 'إرسال رسالة لرقم غير محفوظ في جهازك'
+*إصلاح ظهور المحادثات المخفية في الويدجت
+*إصلاح إمكانية فتح البرنامج من الويدجت عند وضع قفل للبرنامج
+*إصلاح إمكانية الاتصال بمحادثة مخفية من خلال المجموعة
+*دعم اللغة الهندية 
+*إصلاحات اخرى
+            <br/>
+	...................	
+$ END_OF_CHANGE_LOG
+<h2><font size="3"><a href="https://twitter.com/7akeemalnagar"><font color="red">Twitter: @7akeemalnagar</font>
+</h2>
+<p>
+    
+</font>
+</body>
+</html>
 
 ","url":"http://alnaggar-dev.blogspot.com/2018/02/njwhatsapp.html"
 }
