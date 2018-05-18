@@ -1,4 +1,4 @@
-{"version_code":451198,"content":"
+{"version_code":452101,"content":"
 <p>تحديث 1.20 </p>
 <html>
 <meta name="viewport" content="width=device-width, user-scalable=no" />
